@@ -1,0 +1,16 @@
+{
+  "name": "dolphin-bbs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "init": "cd ./packages/NodeBB && ./nodebb setup && pnpm i",
+    "bbs:dev": "cd ./packages/NodeBB && ./nodebb dev",
+    "bbs:build": "cd ./packages/NodeBB && ./nodebb build",
+    "bbs:start": "cd ./packages/NodeBB && ./nodebb start",
+    "bbs:stop": "cd ./packages/NodeBB && ./nodebb stop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

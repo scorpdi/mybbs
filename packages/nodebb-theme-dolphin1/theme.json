@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-dolphin1",
+    "name": "Dolphin1",
+    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
+    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "screenshot": "screenshot.png"
+}

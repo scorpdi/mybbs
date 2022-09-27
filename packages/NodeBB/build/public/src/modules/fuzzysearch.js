@@ -1,0 +1,1 @@
+../../../../node_modules/nodebb-plugin-emoji/public/lib/fuzzysearch.js

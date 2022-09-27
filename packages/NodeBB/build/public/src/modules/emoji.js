@@ -1,0 +1,1 @@
+../../../../node_modules/nodebb-plugin-emoji/build/public/lib/emoji.js
